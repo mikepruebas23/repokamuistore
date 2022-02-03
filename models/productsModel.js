@@ -31,4 +31,4 @@ const productsSchema = new Schema({
 
 //Export
 // name collection in mongo = products
-module.exports = mongoose.model('products', productsSchema);
+module.exports = mongoose.model('kamuistore', productsSchema);
